@@ -1,3 +1,4 @@
-
 Creating a new branch is quick and simple.
-stupid boos
+my stupid boos
+
+做了一些修改
